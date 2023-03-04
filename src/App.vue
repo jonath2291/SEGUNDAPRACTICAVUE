@@ -17,7 +17,7 @@ export default {
     ProductSelect,
     MenuNav,
     FooterPage,
-    ProductCard
+    ProductCard,
   }
 }
 </script>
